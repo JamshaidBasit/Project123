@@ -1,0 +1,5 @@
+{
+    "name": "FactCheckingReview",
+    "criteria": "\n- Contains factual inaccuracies (dates, numbers, statistics)\n- Makes claims without proper citations or evidence\n- Provides statistics that cannot be verified\n- Presents disputed facts as established truth\n- Contains unsupported generalizations\n",
+    "guidelines": "\n1. Ensure factual accuracy\n2. Require evidence for claims\n3. Avoid spreading misinformation\n"
+}
